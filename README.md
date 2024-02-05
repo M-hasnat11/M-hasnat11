@@ -2,7 +2,7 @@ Welcome to My GitHub Profile
 
 Hello there! 👋 I'm Mohammad Hasnat, I am a  Software Engineer. Welcome to my GitHub repository where I showcase some of my projects and contributions to software development and Data Science.
 - 👀 My primary areas of expertise include  Web development, Machine learning, and Data Science. I am enthusiastic about open-source contributions, solving real-world problems, and working with different developers.
-- 🌱 I’m currently learning RustTypescript and Vue.js
+- 🌱 I’m currently learning Rust, Typescript and Vue.js
 - 💞️ I’m looking to collaborate feel free to reach out on:
 LinkedIn "https://www.linkedin.com/in/mohammad-hasnat-15868114b/
 Twitter "https://twitter.com/Hasnatkhan777"
