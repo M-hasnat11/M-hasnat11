@@ -1,14 +1,26 @@
 
-Hello there! 👋 I'm Mohammad Hasnat, I am a  Software Engineer. Welcome to my GitHub repository where I showcase some of my projects and contributions to software development and Data Science.
-#About Me
-- 👀 My primary areas of expertise include  Web development, Machine learning, and Data Science. I am enthusiastic about open-source contributions, solving real-world problems, and working with different developers.
-- I’m currently learning GO, Typescript and Vue.js
-- I’m looking to collaborate feel free to reach out on:
-LinkedIn "https://www.linkedin.com/in/mohammad-hasnat-15868114b/
-Twitter "https://twitter.com/Hasnatkhan777"
-Email "mohammadhasnat1984@gmail.com
+# About Me
+
+Hi, I'm Mohammad Hasnat! 👋
+
+I'm a Software Engineer with a passion for building Software that combine creativity, functionality, and performance to help businesses thrive and connect people.
+
+## Skills
+
+* Programming languages: Python, JavaScript, TypeScript
+* Technologies: React, Django, Nextjs, FastAPI
+* Tools & Platforms: Github, Docker, Vercel
+* Data Science & AI: "Skilled in data analysis and machine learning, with a strong understanding of statistical modeling, data visualization, and algorithm development to solve real-world problems 
+
+## Contact Me
+
+I’m looking to collaborate feel free to reach out on:
+* Email: (connect.hasnat@gmail.com)
+* LinkedIn:(https://www.linkedin.com/in/mohammad-hasnat-15868114b/)
+* Twitter: https://twitter.com/Hasnatkhan777"
 
 I'm excited about the journey ahead and the opportunities for growth in the ever-evolving field of software engineering. Thank you for visiting my GitHub profile, and I hope you find something interesting here!
+
 
 <!---
 M-hasnat11/M-hasnat11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
