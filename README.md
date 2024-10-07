@@ -8,7 +8,7 @@ I'm a Software Engineer with a passion for building Software that combine creati
 ## Skills
 /
 * Programming languages: C, Python, JavaScript, TypeScript, C++ 
-* Technologies: React, Django, FastAPI, 
+* Technologies: React, Django, FastAPI
 * Tools & Platforms: Github, Docker, Vercel
 * Data Science & AI: "Skilled in data analysis and machine learning, with a strong understanding of statistical modeling, data visualization, and algorithm development to solve real-world problems 
 
